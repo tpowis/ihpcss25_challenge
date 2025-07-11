@@ -1,0 +1,13 @@
+Block iterations 300000 setup in 6.092047390994 seconds
+57927300000 iterations achieved in 9.999998084037 seconds
+PageRank of vertex 0: 0.002541
+PageRank of vertex 100: 0.001726
+PageRank of vertex 200: 0.001494
+PageRank of vertex 300: 0.001302
+PageRank of vertex 400: 0.001127
+PageRank of vertex 500: 0.000962
+PageRank of vertex 600: 0.000800
+PageRank of vertex 700: 0.000641
+PageRank of vertex 800: 0.000483
+PageRank of vertex 900: 0.000322
+Sum of all pageranks = 1.000000000000.
