@@ -68,7 +68,7 @@ def main():
     n_block = 300000
 
     #Maximum fumber of iterations
-    n_max = 1_000_000_000
+    n_max = 1_000_000_000_000
     duration = 10.0
 
     #Allocating some memory for block
